@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="506.83618"
+   height="512.02576"
+   id="svg2"
+   inkscape:label="Pozadí"
+   sodipodi:version="0.32"
+   inkscape:version="0.44.1"
+   sodipodi:docbase="D:\_petr_\School\INKSCAPE\svg\05.Ovoce, zelenina, jidlo\jidlo"
+   sodipodi:docname="vejce.svg"
+   version="1.0">
+  <defs
+     id="defs3">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2823">
+      <stop
+         style="stop-color:#ccc;stop-opacity:1;"
+         offset="0"
+         id="stop2825" />
+      <stop
+         style="stop-color:#ccc;stop-opacity:0;"
+         offset="1"
+         id="stop2827" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2823"
+       id="radialGradient2829"
+       cx="244.80605"
+       cy="192.53464"
+       fx="244.80605"
+       fy="192.53464"
+       r="120.67517"
+       gradientTransform="matrix(1,0,0,0.902783,107.9447,287.9572)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49032549"
+     inkscape:cx="372.04724"
+     inkscape:cy="526.18109"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1024"
+     inkscape:window-height="712"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4" />
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>15.11.2006</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Petra Thurlova</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>ZS a MS Machovo namesti</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>cz</dc:language>
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+        <dc:title>vejce</dc:title>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>vejce</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-107.9447,-243.0651)">
+    <g
+       id="g2831"
+       inkscape:export-filename="/media/KINGSTON/inkscape/8.b/Petra Thurlova/svg 3/Prace svg/jidlo/vejce.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         id="path2758"
+         d="M 607.62213,516.64685 C 630.07453,580.52793 594.63252,650.86973 541.83809,687.97618 C 510.79798,710.36466 473.34389,720.88804 437.68135,733.45978 C 369.95255,753.8452 298.05182,759.10931 227.85464,751.43259 C 197.93335,730.35953 219.93612,693.28082 232.435,668.81887 C 250.83936,642.47538 236.86817,607.18764 206.41021,598.98581 C 159.03776,574.02827 121.16149,529.05383 112.89806,475.19122 C 90.645741,380.4501 150.22186,269.74515 247.59092,247.82393 C 330.4144,231.31833 411.57877,264.15382 489.28829,288.57761 C 540.58171,306.77607 592.51258,341.99785 608.83706,396.55913 C 619.54816,436.08718 600.05362,476.63614 607.62213,516.64685 z "
+         style="fill:#f4f2ee;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:0.59529173;stroke-miterlimit:4;stroke-opacity:1" />
+      <path
+         id="path1871"
+         d="M 473.41821,461.64072 C 474.07721,512.37862 432.37313,556.23466 384.2373,566.89095 C 329.02049,581.09044 263.47964,555.00823 240.15618,501.36665 C 221.75909,460.18988 235.8984,408.79904 271.17438,381.26953 C 322.63286,338.02907 408.88116,344.46132 450.74316,398.0849 C 464.98717,416.00637 473.64444,438.62655 473.41821,461.64072 z "
+         style="fill:#eeaf05;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:0.94344795;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="opacity:0.64953272;fill:url(#radialGradient2829);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.94344795;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 473.41821,461.64072 C 474.07721,512.37862 432.37313,556.23466 384.2373,566.89095 C 329.02049,581.09044 263.47964,555.00823 240.15618,501.36665 C 221.75909,460.18988 235.8984,408.79904 271.17438,381.26953 C 322.63286,338.02907 408.88116,344.46132 450.74316,398.0849 C 464.98717,416.00637 473.64444,438.62655 473.41821,461.64072 z "
+         id="path1934" />
+    </g>
+  </g>
+</svg>
