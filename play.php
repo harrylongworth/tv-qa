@@ -80,7 +80,7 @@
       			<div onTouchStart="history.go(-1)" onClick="history.go(-1)"><img id ="backbuttonimage" alt ="back button" src="back.png"></div>
       		</td>
       		<td width="60%">
-      			<button id="find" onclick="var sayThis = localStorage.sayText; var msg = new SpeechSynthesisUtterance(sayThis);window.speechSynthesis.speak(msg);">&nbsp;?&nbsp;</button>
+      			<button id="find" onclick="var sayThis = localStorage.sayText; var msg = new SpeechSynthesisUtterance(sayThis);msg.lang = 'en-US';window.speechSynthesis.speak(msg);">&nbsp;?&nbsp;</button>
       		</td>
       		<td width="20%">
       			<div id ="menubutton" onClick="promptCC()">

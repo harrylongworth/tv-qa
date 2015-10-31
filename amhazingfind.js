@@ -680,7 +680,7 @@ function nextTurn() {
 	drawCardTable();
 	
 	// Say card name
-    var testtext2 = localStorage.sayText; var msg2 = new SpeechSynthesisUtterance(testtext2);window.speechSynthesis.speak(msg2);
+    var testtext2 = localStorage.sayText; var msg2 = new SpeechSynthesisUtterance(testtext2);msg2.lang = 'en-US';window.speechSynthesis.speak(msg2);
 	startTimer ();
 } // END nextTurn()
 
@@ -720,7 +720,7 @@ function cardClick(item){
 			// alert("pushing missed card");
 			cardsMissed.push(rightCardID); // store the card missed
 			// Say wrong card
-			var wrongCard = "Wrong Card. Find "+localStorage.sayText; var wrongMsg = new SpeechSynthesisUtterance(wrongCard);window.speechSynthesis.speak(wrongMsg);
+			var wrongCard = "Wrong Card. Find "+localStorage.sayText; var wrongMsg = new SpeechSynthesisUtterance(wrongCard);wrongMsg.lang = 'en-US';window.speechSynthesis.speak(wrongMsg);
 			
 		} // end IF
 		
